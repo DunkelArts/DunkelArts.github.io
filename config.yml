@@ -2,7 +2,6 @@ baseURL: "https://dunkelarts.github.io/"
 title: DunkelArts
 paginate: 5
 theme: PaperMod
-publishDir: docs
 
 enableRobotsTXT: true
 buildDrafts: false
