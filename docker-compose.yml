@@ -1,0 +1,17 @@
+version: '3.3'
+services:
+  apache1:
+    image: httpd:2.4
+    ports:
+      - 8001:80
+    volumes:
+      - .:/usr/local/apache2/htdocs/
+    environment:
+      VIRTUAL_HOST: www.dunkelarts.ch
+      LETSENCRYPT_HOST: www.dunkelarts.ch
+    networks:
+      - "frontend"
+
+networks:
+  frontend:
+    external: true
