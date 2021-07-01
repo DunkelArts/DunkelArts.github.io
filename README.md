@@ -12,5 +12,5 @@ The Content of the ph-pages branch is deployed via the GitHub Pages service.
 ## Pull with submodules
 
 ```bash
-git clone --recurse-submodules https://github.com/DunkelArts/DunkelArts.github.io.git
+git clone --recurse-submodules https://github.com/DunkelArts/www.dunkelarts.ch.git
 ```
