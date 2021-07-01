@@ -1,4 +1,4 @@
-baseURL: "https://dunkelarts.github.io/"
+baseURL: "https://www.dunkelarts.ch/"
 title: DunkelArts
 paginate: 5
 theme: PaperMod
@@ -91,7 +91,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/DunkelArts/DunkelArts.github.io/content/blog"
+        URL: "https://github.com/DunkelArts/DunkelArts.github.io/tree/main/content/"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -107,9 +107,9 @@ params:
         keys: ["title", "permalink", "summary", "content"]
 menu:
     main:
-        - identifier: dunkelarts.ch
-          name: dunkelarts.ch
-          url: https://www.dunkelarts.ch
+        - identifier: Wiki
+          name: Wiki
+          url: https://wiki.dunkelarts.ch
           weight: 10
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
