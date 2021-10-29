@@ -8,26 +8,36 @@
       <url>https://www.dunkelarts.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://www.dunkelarts.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.dunkelarts.ch/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 28 Oct 2021 09:43:40 +0000</lastBuildDate><atom:link href="https://www.dunkelarts.ch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minecraft Server with Docker</title>
+      <link>https://www.dunkelarts.ch/posts/post3/</link>
+      <pubDate>Thu, 28 Oct 2021 09:43:40 +0000</pubDate>
+      
+      <guid>https://www.dunkelarts.ch/posts/post3/</guid>
+      <description>Using Docker to host a private Minecraft Server</description>
+    </item>
+    
+    <item>
+      <title>SSL Proxy with Docker</title>
+      <link>https://www.dunkelarts.ch/posts/post2/</link>
+      <pubDate>Thu, 01 Jul 2021 14:43:40 +0000</pubDate>
+      
+      <guid>https://www.dunkelarts.ch/posts/post2/</guid>
+      <description>Nginx-SSL Proxy for my Own-Webserver</description>
+    </item>
     
     <item>
       <title>Destiny Inventory Manager</title>
       <link>https://www.dunkelarts.ch/posts/post1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Jun 2019 15:13:50 +0000</pubDate>
       
       <guid>https://www.dunkelarts.ch/posts/post1/</guid>
       <description>Destiny Inventory Manager packaged with Electron.js to use as a desktop application.</description>
     </item>
     
     
-    <item>
-      <title>SSL Proxy with Docker</title>
-      <link>https://www.dunkelarts.ch/posts/post2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.dunkelarts.ch/posts/post2/</guid>
-      <description>Nginx-SSL Proxy for my Own-Webserver</description>
-    </item>
     
   </channel>
 </rss>

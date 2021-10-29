@@ -2,19 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.dunkelarts.ch/</loc>
+    <lastmod>2021-10-28T09:43:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dunkelarts.ch/posts/post3/</loc>
+    <lastmod>2021-10-28T09:43:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dunkelarts.ch/posts/</loc>
+    <lastmod>2021-10-28T09:43:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dunkelarts.ch/posts/post2/</loc>
+    <lastmod>2021-07-01T14:43:40+00:00</lastmod>
+  </url><url>
+    <loc>https://www.dunkelarts.ch/posts/post1/</loc>
+    <lastmod>2019-06-23T15:13:50+00:00</lastmod>
+  </url><url>
     <loc>https://www.dunkelarts.ch/archives/</loc>
   </url><url>
     <loc>https://www.dunkelarts.ch/categories/</loc>
   </url><url>
-    <loc>https://www.dunkelarts.ch/posts/post1/</loc>
-  </url><url>
-    <loc>https://www.dunkelarts.ch/</loc>
-  </url><url>
-    <loc>https://www.dunkelarts.ch/posts/</loc>
-  </url><url>
     <loc>https://www.dunkelarts.ch/search/</loc>
-  </url><url>
-    <loc>https://www.dunkelarts.ch/posts/post2/</loc>
   </url><url>
     <loc>https://www.dunkelarts.ch/tags/</loc>
   </url>
