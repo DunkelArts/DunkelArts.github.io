@@ -3,6 +3,7 @@ title: "SSL Proxy with Docker"
 layout: "post"
 #url: "/archives/"
 summary: Nginx-SSL Proxy for my Own-Webserver
+date: "2021-07-01T14:43:40"
 ---
 
 For hosting any Web-Application on my Home-Server I've setup a SSL Proxy to encrypt all traffic.

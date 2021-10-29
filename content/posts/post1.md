@@ -3,6 +3,7 @@ title: "Destiny Inventory Manager"
 layout: "post"
 #url: "/archives/"
 summary: Destiny Inventory Manager packaged with Electron.js to use as a desktop application.
+date: "2019-06-23T15:13:50"
 ---
 
 Destiny Inventory Manager packaged with Electron.js to use as a desktop application.
